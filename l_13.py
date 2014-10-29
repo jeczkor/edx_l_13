@@ -28,5 +28,5 @@ def loadFile():
 	pylab.ylabel('Temperature Ranges')
 	pylab.show()
 
-if __name__ == '__Main__':
+if __name__ == "__main__":	
 	loadFile()
