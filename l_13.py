@@ -30,3 +30,4 @@ def loadFile():
 
 if __name__ == "__main__":	
 	loadFile()
+	print 'tadaaa'
